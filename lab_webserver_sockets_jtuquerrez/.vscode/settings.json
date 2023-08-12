@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "accion",
+        "cliente",
+        "Conexion",
+        "Controla",
+        "Direccion",
+        "ejecucion",
+        "Estructura",
+        "servidor"
+    ],
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "MLTable": "yaml",
+        "netdb.h": "c"
+    }
+}
